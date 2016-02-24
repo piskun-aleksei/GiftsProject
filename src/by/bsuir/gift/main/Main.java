@@ -16,6 +16,6 @@ public class Main {
         DOMConfigurator.configure("log4j.xml");
 
         //Log in console in and log file
-        logger.debug("Log4j appender configuration is successful !!");
+        logger.debug("Log4j try");
     }
 }

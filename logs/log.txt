@@ -1,1 +1,1 @@
-DEBUG - Log4j appender configuration is successful !!
+[2016-02-24 23:48:26,158] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try

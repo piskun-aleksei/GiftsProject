@@ -22,4 +22,10 @@ public class JellyBean extends Candy {
     public void setFlavor(String flavor) {
         this.flavor = flavor;
     }
+
+    @Override
+    public String toString() {
+        return "Candy name: " + this.getName() + "\nScan code: " + this.getScanCode() + "\nWeight: " + this.getWeight()
+                + "\nSugar percentage: " + this.getSugarPercentage() + "\nFlavor: " + this.getFlavor();
+    }
 }

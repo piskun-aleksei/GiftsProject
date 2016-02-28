@@ -1,0 +1,53 @@
+Alenka
+706571
+1000
+45
+50
+
+Ne Alenka
+706572
+500
+30
+20
+
+JellyBelly
+574149
+200
+20
+Lemon
+
+JellyFrelly
+532412
+100
+10
+Apple
+
+Komunarka
+765222
+1000
+20
+65
+
+Alpen Gold
+727818
+1000
+10
+700
+
+Alenka check
+222
+2321
+50
+20
+
+Check once again
+231232
+-1
+10
+10
+
+Still checking
+231231
+123
+-1
+10

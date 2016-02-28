@@ -1,31 +1,31 @@
 package by.bsuir.gift.entity;
 
-import by.bsuir.gift.exception.InvalidNumberExceprion;
-
 /**
  * Created by Алексей on 24.02.2016.
  */
+
 public class Candy extends Entity {
     private String name;
-    private int weight, sugarPercentage;
+    private int weight;
+    private int sugarPercentage;
 
-    public Candy(){
+    public Candy() {
         super();
     }
 
-    public Candy(String name, int scanCode, int weight, int sugarPercentage){
+    public Candy(String name, int scanCode, int weight, int sugarPercentage) {
         super(scanCode);
         this.name = name;
         this.weight = weight;
         this.sugarPercentage = sugarPercentage;
     }
 
-    public int getWeight(){
+    public int getWeight() {
 
         return weight;
     }
 
-    public String getName(){
+    public String getName() {
         return name;
     }
 
@@ -33,11 +33,11 @@ public class Candy extends Entity {
         return sugarPercentage;
     }
 
-    public void setWeight(int weight){
+    public void setWeight(int weight) {
         this.weight = weight;
     }
 
-    public void setName(String name){
+    public void setName(String name) {
         this.name = name;
     }
 

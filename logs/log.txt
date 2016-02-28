@@ -1,1 +1,278 @@
 [2016-02-24 23:48:26,158] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-25 21:03:05,072] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-25 22:14:39,254] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:56:39,928] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:57:02,192] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:57:25,988] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:57:51,227] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:59:31,970] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 01:59:44,871] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:00:02,715] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:00:30,259] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:01:07,533] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:01:24,098] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:02:11,900] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:02:54,085] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:03:54,864] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:04:22,759] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:04:37,123] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:05:01,991] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 02:05:10,576] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:38:59,091] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:38:59,128] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:38:59,129] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:38:59,129] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:38:59,140] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:38:59,140] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:40:39,549] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:40:39,552] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:40:39,552] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:40:39,552] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:40:39,553] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:40:39,553] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:41:26,610] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:41:26,613] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:41:26,613] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:41:26,613] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:41:26,615] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:41:26,618] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:48:26,252] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,255] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:48:26,256] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:48:26,262] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:48:26,265] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:48:26,265] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:48:26,265] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:48:26,265] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:48:26,265] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:48:26,265] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:48:26,266] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:48:26,266] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:48:26,266] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:49:41,990] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:49:41,992] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:49:41,993] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:49:41,996] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:41,999] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:49:41,999] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:42,000] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:49:42,000] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:42,001] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:49:42,001] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:42,001] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:49:42,001] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:42,001] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:49:42,002] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:49:42,002] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:55:33,080] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:55:33,083] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,083] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,083] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,083] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,084] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,084] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:55:33,084] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:55:33,123] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:55:33,123] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:55:33,123] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:55:33,126] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:55:33,126] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:55:33,126] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:55:33,126] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:55:33,126] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 16:56:56,638] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 16:56:56,640] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,640] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,640] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,641] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,641] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,641] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 16:56:56,641] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 16:56:56,643] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:56:56,644] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:56:56,644] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:56:56,644] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:56:56,644] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:56:56,645] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:56:56,645] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:56:56,646] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 16:56:56,646] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 16:56:56,646] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 16:56:56,646] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:25:33,975] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:25:33,978] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:25:33,979] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:25:33,982] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:25:33,990] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:25:33,990] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:25:33,990] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:25:33,991] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:25:33,993] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:25:33,993] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:25:33,994] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:25:33,994] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:25:33,994] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:25:33,994] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:25:33,995] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:26:08,795] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:26:08,798] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,798] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,799] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,799] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,799] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,799] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:26:08,799] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:26:08,801] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:26:08,803] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:26:08,804] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:26:08,804] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:26:08,804] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:26:08,805] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:26:08,805] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:26:08,805] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:26:08,805] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:26:08,805] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:26:08,806] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:26:08,807] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:47:14,102] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:47:14,106] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,106] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,106] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,106] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,107] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,107] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:14,107] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:47:14,109] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:14,112] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:14,112] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:14,112] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:14,112] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:14,113] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:14,113] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:14,114] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:14,114] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:14,114] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:14,115] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:47:14,117] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:47:20,394] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:47:20,397] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,397] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,397] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,397] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,397] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,398] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:20,398] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:47:20,400] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:20,403] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:20,403] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:20,403] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:20,403] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:20,404] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:20,404] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:20,404] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:20,405] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:20,405] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:20,405] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:47:20,407] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:47:40,632] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:47:40,635] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,635] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,636] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,636] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,636] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,636] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:47:40,636] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:47:40,638] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:40,641] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:40,641] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:40,641] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:40,642] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:40,643] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:40,643] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:40,643] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:47:40,643] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:47:40,643] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:47:40,643] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:47:40,645] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:48:33,086] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:48:33,089] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,089] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,089] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,089] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,090] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,090] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:48:33,090] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:48:33,092] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:48:33,095] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:48:33,095] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:48:33,095] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:48:33,095] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:48:33,096] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:48:33,096] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:48:33,096] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:48:33,096] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:48:33,096] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:48:33,096] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:48:33,097] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 18:49:16,006] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,009] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 18:49:16,010] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 18:49:16,012] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:49:16,014] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:49:16,014] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:49:16,015] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:49:16,015] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:49:16,016] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:49:16,016] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:49:16,016] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 18:49:16,016] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 18:49:16,016] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 18:49:16,016] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 18:49:16,018] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set
+[2016-02-28 19:12:07,574] [main] [DEBUG][ by.bsuir.gift.main.Main:] Log4j try
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,577] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,578] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,578] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,578] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] Candy added
+[2016-02-28 19:12:07,578] [main] [DEBUG][ by.bsuir.gift.reader.CandiesFileReader:] File has been read
+[2016-02-28 19:12:07,581] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 19:12:07,583] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 19:12:07,584] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 19:12:07,584] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 19:12:07,584] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 19:12:07,585] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 19:12:07,585] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 19:12:07,585] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (jelly bean) has been added to collection
+[2016-02-28 19:12:07,585] [main] [DEBUG][ by.bsuir.gift.checkers.FileInfoChecker:] File checked
+[2016-02-28 19:12:07,585] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candy (chocolate bar) has been added to collection
+[2016-02-28 19:12:07,585] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 19:12:07,585] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 19:12:07,585] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 19:12:07,586] [main] [ERROR][ by.bsuir.gift.checkers.FileInfoChecker:] Invalid numbers in file
+[2016-02-28 19:12:07,588] [main] [DEBUG][ by.bsuir.gift.action.BoxActions:] Candies were sorted
+[2016-02-28 19:12:07,588] [main] [DEBUG][ by.bsuir.gift.containers.CandiesBox:] Candies are set

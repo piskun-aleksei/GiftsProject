@@ -16,7 +16,7 @@ public class BoxActions {
     public static int calculateBoxWeight(CandiesBox candies) {
         int sum = 0;
         for (int i = 0; i < candies.getCandies().size(); i++) {
-            sum += candies.getCandies().get(i).getWeight();
+            sum += candies.getCandyWeight(i);
         }
         logger.debug("Box weight has been calculated");
         return sum;
@@ -37,11 +37,11 @@ public class BoxActions {
         return candiesToSort;
     }
 
-    public static void findCandyBySugarPercentage(CandiesBox box, int sugarPercentageLow, int sugarPercentageHigh) {
+    public static void findCandyBySugarPercentage(CandiesBox candies, int sugarPercentageLow, int sugarPercentageHigh) {
         boolean candyFound = false;
-        for (int i = 0; i < box.getCandies().size(); i++) {
-            if (box.getCandies().get(i).getSugarPercentage() >= sugarPercentageLow && box.getCandies().get(i).getSugarPercentage() <= sugarPercentageHigh) {
-                System.out.println("Candy found!\n" + box.getCandies().get(i).toString() + "\n");
+        for (int i = 0; i < candies.getCandies().size(); i++) {
+            if (candies.getCandySugarPercentage(i) >= sugarPercentageLow && candies.getCandySugarPercentage(i) <= sugarPercentageHigh) {
+                System.out.println("Candy found!\n" + candies.getCandyToString(i) + "\n");
                 candyFound = true;
             }
         }
@@ -50,10 +50,10 @@ public class BoxActions {
         }
     }
 
-    public static void printCandiesInfo(CandiesBox box) {
-        for (int i = 0; i < box.getCandies().size(); i++) {
+    public static void printCandiesInfo(CandiesBox candies) {
+        for (int i = 0; i < candies.getCandies().size(); i++) {
             int candyNumber = i + 1;
-            System.out.println("Candy number " + candyNumber + "\n" + box.getCandies().get(i).toString() + "\n");
+            System.out.println("Candy number " + candyNumber + "\n" + candies.getCandyToString(i) + "\n");
         }
     }
 }

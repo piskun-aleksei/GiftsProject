@@ -1,5 +1,6 @@
 package by.bsuir.gift.checkers;
 
+import by.bsuir.gift.exception.InvalidNumberException;
 import org.apache.log4j.Logger;
 
 import java.util.ArrayList;
@@ -48,10 +49,9 @@ public class FileInfoChecker {
         }
     }
 
-    public static boolean checkCandyInfo(String[] candiesInfo) {
+    public static boolean checkCandyInfo(String[] candiesInfo) throws InvalidNumberException {
         if (FileInfoChecker.tryParseInt(candiesInfo[1]) && FileInfoChecker.tryParseInt(candiesInfo[2])
                 && FileInfoChecker.tryParseInt(candiesInfo[3])) {
-
             if (checkScanCode(Integer.parseInt(candiesInfo[1])) && checkWeight(Integer.parseInt(candiesInfo[2]))
                     && checkSugarPercentage(Integer.parseInt(candiesInfo[3]))) {
 
@@ -61,23 +61,20 @@ public class FileInfoChecker {
                         logger.debug("File checked");
                         return true;
                     } else {
-                        logger.error("Invalid numbers in file");
+                        throw new InvalidNumberException("Invalid number in file");
                     }
 
                 } else {
                     logger.debug("File checked");
-
                     return true;
                 }
 
             } else {
-                logger.error("Invalid numbers in file");
+                throw new InvalidNumberException("Invalid number in file");
             }
 
         } else {
-            logger.error("Invalid type of data in file");
+            return false;
         }
-
-        return false;
     }
 }
